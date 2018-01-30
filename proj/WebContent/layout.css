@@ -1,0 +1,172 @@
+body {
+	background: #c2e59c;
+	background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);
+	background: linear-gradient(to right, #64b3f4, #c2e59c);
+	font-family: "Lato";
+}
+
+h1{
+	font-size: 45px;
+	font-family:"Monoton";
+	word-spacing:8px;
+	color: #93010d;
+	text-align: center;
+}
+
+.head{
+	width: 70%;
+ 	font-size: 20px; 
+ 	color: #032760";
+}
+
+.sl {
+	outline: none;
+	border: none;
+	cursor: pointer;
+	display: block;
+	position: relative;
+	background: #ffbb33;
+	/*fcad26*/
+	font-family: "Lato";
+	font-size: 16px;
+	font-weight: 700;
+	color: black;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding: 25px 80px;
+	margin: 0 25px;
+	box-shadow: 0 6px #dd8800;
+	/*#efa424*/
+	border-radius: 20px;
+	border: 1px solid #efa424;
+	margin-bottom: 5px;
+}
+
+.sl:hover {
+	box-shadow: 0 4px #efa424;
+	top: 2px;
+}
+
+.sl:active {
+	box-shadow: 0 0 #efa424;
+	top: 6px;
+}
+
+.completed {
+	transform: scale(0.99);
+	margin-top: 25px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.coach1 {
+	background-color: #fcf0db;
+	padding: 0;
+	border-left: 1px solid grey;
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+	height: 120px;
+	display: inline;
+}
+
+.main1 {
+	display: none;
+}
+
+.main2 {
+	display: none;
+}
+
+.main3 {
+	display: none;
+}
+
+.main4 {
+	display: none;
+}
+
+.left {
+	padding: 0;
+	float: left;
+	height: 25px;
+	width: 25px;
+}
+
+.right {
+	padding: 0;
+	float: right;
+	height: 25px;
+	width: 25px;
+}
+
+.btn {
+	padding: 0;
+	height: 25px;
+	width: 25px;
+}
+
+.bottom-right {
+	padding: 0;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 25px;
+	width: 25px;
+}
+
+.bottom-left {
+	padding: 0;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	height: 25px;
+	width: 25px;
+}
+
+.lower {
+	background-color: #f9c94d;
+}
+
+.list-group {
+	margin: -400px auto;
+	width: 20%;
+	float: right;
+}
+
+.list-group-item {
+	padding: 1px;
+	font-size:18px;
+}
+
+#legend {
+	text-align: center;
+	height: 25px;
+}
+
+.list-group-item-primary {
+	background-color: #b3dafc;
+	color: #054177;
+}
+
+.btn-xs {
+	padding: 0;
+	width: 22px;
+	height: 20px;
+}
+
+.list-group-item button {
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+#ac1 {
+	width: 35px;
+	height: 40px;
+	border-radius: 4px;
+}
+
+#ac2 {
+	width: 30px;
+	height: 35px;
+	border-radius: 4px;
+}

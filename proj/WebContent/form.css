@@ -1,0 +1,14 @@
+body {
+	background: #DAD299;
+	background: -webkit-linear-gradient(to left, #B0DAB9, #DAD299);
+	background: linear-gradient(to left, #B0DAB9, #DAD299);
+}
+
+#journey {
+	font-family: 'Monoton';
+	font-size: 4em;
+	text-align: center;
+	padding-top: 5%;
+	word-spacing: 20px;
+	color: #032760;
+}
